@@ -11,3 +11,4 @@
 ### ch02 스프링 부트의 기본 기능 익히기
 
 - `ch02-01_to_04: jpa로 데이터베이스 사용하기 & 엔티티로 테이블 매핑하기` https://github.com/seunga03/springboot-study/pull/5#issue-3334359364
+- `ch02-05_to_06: 리포지터리로 데이터베이스 관리하기 및 도메인별로 분류하기` https://github.com/seunga03/springboot-study/pull/6#issue-3349579679
